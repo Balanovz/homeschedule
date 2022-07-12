@@ -1,0 +1,14 @@
+C:\Users\Zaur Balanov\source\repos\homeSchedule\homeSchedule\bin\Debug\netcoreapp3.1\homeSchedule.exe
+C:\Users\Zaur Balanov\source\repos\homeSchedule\homeSchedule\bin\Debug\netcoreapp3.1\homeSchedule.deps.json
+C:\Users\Zaur Balanov\source\repos\homeSchedule\homeSchedule\bin\Debug\netcoreapp3.1\homeSchedule.runtimeconfig.json
+C:\Users\Zaur Balanov\source\repos\homeSchedule\homeSchedule\bin\Debug\netcoreapp3.1\homeSchedule.runtimeconfig.dev.json
+C:\Users\Zaur Balanov\source\repos\homeSchedule\homeSchedule\bin\Debug\netcoreapp3.1\homeSchedule.dll
+C:\Users\Zaur Balanov\source\repos\homeSchedule\homeSchedule\bin\Debug\netcoreapp3.1\homeSchedule.pdb
+C:\Users\Zaur Balanov\source\repos\homeSchedule\homeSchedule\obj\Debug\netcoreapp3.1\homeSchedule.csproj.AssemblyReference.cache
+C:\Users\Zaur Balanov\source\repos\homeSchedule\homeSchedule\obj\Debug\netcoreapp3.1\homeSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaur Balanov\source\repos\homeSchedule\homeSchedule\obj\Debug\netcoreapp3.1\homeSchedule.AssemblyInfoInputs.cache
+C:\Users\Zaur Balanov\source\repos\homeSchedule\homeSchedule\obj\Debug\netcoreapp3.1\homeSchedule.AssemblyInfo.cs
+C:\Users\Zaur Balanov\source\repos\homeSchedule\homeSchedule\obj\Debug\netcoreapp3.1\homeSchedule.csproj.CoreCompileInputs.cache
+C:\Users\Zaur Balanov\source\repos\homeSchedule\homeSchedule\obj\Debug\netcoreapp3.1\homeSchedule.dll
+C:\Users\Zaur Balanov\source\repos\homeSchedule\homeSchedule\obj\Debug\netcoreapp3.1\homeSchedule.pdb
+C:\Users\Zaur Balanov\source\repos\homeSchedule\homeSchedule\obj\Debug\netcoreapp3.1\homeSchedule.genruntimeconfig.cache
